@@ -145,3 +145,8 @@ python app.py
 pip install all the packages you need now
 ```
 
+# go to azure
+
+go to deploy center choose the repo to deploy 
+set up env variabels in configuration 
+
